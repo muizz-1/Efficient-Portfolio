@@ -10,7 +10,9 @@ This project applies **Modern Portfolio Theory (MPT)** to build an **efficient p
 - Generate and evaluate thousands of random portfolios.  
 - Use **SciPy optimization** to calculate the efficient frontier.  
 - Identify the **maximum Sharpe ratio portfolio**.  
-- Visualize portfolios and results with **Matplotlib**.  
+- Visualize portfolios and results with **Matplotlib**.
+- Load all your prices in the Data/ Folder and
+- Run the Jupyter Notebook
 
 ---
 
